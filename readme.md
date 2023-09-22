@@ -28,7 +28,7 @@ _Tras el accidente sucedido en la pizzería, cronológicamente daría comienzo F
 El final “bueno”, en el que vemos cómo Puppet se acerca a 5 niños con la máscara de los animatrónicos, y salen globos flotando que representan la liberación de sus almas. O “el malo”, en el que evidentemente no consigues liberar sus almas.
 
 
-![Imágen de el animatronico principal](/home/dam/Escritorio/Contornos de Desarrollo/imágenes/imágenDeReadme.jpeg)
+![Imágen de el animatronico principal](https:/home/dam/Escritorio/Contornos de Desarrollo/imágenes/imágenDeReadme.jpeg)
 
 
 [Enlace a la información](https://todasgamers.com/2020/10/30/la-historia-real-de-five-nights-at-freddys/)
