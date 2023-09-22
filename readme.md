@@ -1,1 +1,3 @@
- una prueba
+#Titulo
+
+esto es un readme para aprender a usar Git
